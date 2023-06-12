@@ -1,0 +1,19 @@
+{
+  "name": "paniczone",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/m3thx/paniczone.git"
+  },
+  "author": "m3thx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3thx/paniczone/issues"
+  },
+  "homepage": "https://github.com/m3thx/paniczone#readme"
+}
